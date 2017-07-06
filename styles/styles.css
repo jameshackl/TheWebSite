@@ -7,7 +7,9 @@ html
 
 body
 {
-	margin:24 auto;
+	margin:0 auto;
+	margin-top: 24px;
+	margin-bottom: 24px;
 	padding:24px;
 	background-color:#F4F2F0;
 	width:960px;
