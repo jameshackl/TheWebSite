@@ -1,0 +1,1 @@
+document.getElementById("footer-container").innerHTML = '<div class="footer">James Hackl - 2017</div>'
