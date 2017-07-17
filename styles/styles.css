@@ -19,6 +19,7 @@ main
 	background-color:#F4F2F0;
 	font-size:100%;
 	line-height:1.5;
+	border: 1 solid black;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
@@ -31,11 +32,6 @@ nav, footer
 .menu, .footer
 {
 	display: inline-block;
-}
-
-section
-{
-	margin-top:24px;
 }
 
 footer
@@ -56,4 +52,10 @@ a
 h2,h1
 {
 	font-weight: bold;
+}
+
+.portfolio-project
+{
+	border: 1px solid black;
+    box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.5);
 }
