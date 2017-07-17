@@ -1,1 +1,1 @@
-document.getElementById("footer-container").innerHTML = '<div class="footer">James Hackl - 2017</div>'
+document.getElementById("footer-container").innerHTML = '<div class="footer">James Hackl - Last Updated July 16, 2017</div>'
