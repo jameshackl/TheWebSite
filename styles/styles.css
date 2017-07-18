@@ -41,7 +41,7 @@ footer
 	text-shadow: 1px 1px 1px black!important; 
 }
 
-a
+a.menu-item
 {
 	color: #2F2F2E;
 	text-decoration: none;
@@ -57,5 +57,6 @@ h2,h1
 .portfolio-project
 {
 	border: 1px solid black;
+	padding: 6px;
     box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.5);
 }
