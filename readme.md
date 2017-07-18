@@ -6,4 +6,4 @@ Maybe something on it will interest you too.
 
 TODO
 ---
-- make it "reacitve"
+- make it "reactive"
